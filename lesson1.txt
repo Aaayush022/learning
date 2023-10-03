@@ -1,2 +1,3 @@
 IT was the best of times .
-lesson1 is done
+lesson1 is done.
+It was the first tym i use the GitHub.
